@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectDictionaryState">
+    <dictionary name="f3n1xx" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.13 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" project-jdk-type="Python SDK" />
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" working-directory="$PROJECT_DIR$/..">
+        <envs>
+          <env key="CUDA_TOOLKIT_PATH" value="&quot;/usr/local/cuda&quot;" />
+          <env key="CUDNN_INSTALL_PATH" value="&quot;/usr/local/cuda&quot;" />
+          <env key="DYLD_LIBRARY_PATH" value="/usr/local/cuda/lib:$DYLD_LIBRARY_PATH" />
+          <env key="PYTHON_BIN_PATH" value="&quot;/usr/local/bin/python&quot;" />
+        </envs>
+        <option name="mySdkHome" value="/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+        <option name="myEnvs">
+          <map>
+            <entry key="CUDA_TOOLKIT_PATH" value="&quot;/usr/local/cuda&quot;" />
+            <entry key="CUDNN_INSTALL_PATH" value="&quot;/usr/local/cuda&quot;" />
+            <entry key="DYLD_LIBRARY_PATH" value="/usr/local/cuda/lib:$DYLD_LIBRARY_PATH" />
+            <entry key="PYTHON_BIN_PATH" value="&quot;/usr/local/bin/python&quot;" />
+          </map>
+        </option>
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$/.." />
+        <option name="myAddContentRoots" value="false" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TerminalProjectOptionsProvider">
+    <option name="myStartingDirectory" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="VagrantProjectSettings">
+    <option name="instanceFolder" value="" />
+    <option name="provider" value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
